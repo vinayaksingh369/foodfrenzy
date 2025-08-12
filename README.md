@@ -106,3 +106,13 @@ src/
 └── test/                        # Test cases for unit testing
 ```
 │   └── webapp/
+some most import part is added is 
+Open your browser and go to:
+http://localhost:8080/ or http://localhost:8080/home for the home page
+http://localhost:8080/products for the products page
+http://localhost:8080/location for the location/contact page
+http://localhost:8080/about for the about page
+http://localhost:8080/login for the login page
+If you want the links for other controllers (like AdminController, ProductController, etc.), please let me know or share those files!
+make sure my sql database is working propely if it is working properly so its done to see the all backend is working properly 
+![alt text](image.png)
