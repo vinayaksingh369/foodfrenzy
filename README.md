@@ -116,3 +116,5 @@ http://localhost:8080/login for the login page
 If you want the links for other controllers (like AdminController, ProductController, etc.), please let me know or share those files!
 make sure my sql database is working propely if it is working properly so its done to see the all backend is working properly 
 ![alt text](image.png)
+database
+![alt text](image-1.png)
