@@ -120,6 +120,7 @@ database
 ![alt text](image-1.png)
 1. Swagger/OpenAPI Documentation
 Add a section to let users know how to access your API documentation:
+![alt text](image-2.png)
 ## API Documentation
 
 This project uses Swagger UI for interactive API documentation.
