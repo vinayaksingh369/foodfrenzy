@@ -120,11 +120,13 @@ database
 ![alt text](image-1.png)
 1. Swagger/OpenAPI Documentation
 Add a section to let users know how to access your API documentation:
+![alt text](image-2.png)
 ## API Documentation
 
 This project uses Swagger UI for interactive API documentation.
 
 - After starting the backend, open [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) in your browser to view and test all REST APIs.
+
 
 2. Postman Collection
 If you have a Postman collection for backend testing:
