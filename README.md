@@ -174,4 +174,8 @@ Encourage others to contribute:
 6. License
 If you want to specify a license:
 
+7. Acknowledgments
+
+
 Let me know if you want me to add any of these sections directly to your README.md!
+adding some usefull point for the project is full made by vinayak singh and guidence by q spider institute
