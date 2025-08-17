@@ -179,3 +179,56 @@ If you want to specify a license:
 
 Let me know if you want me to add any of these sections directly to your README.md!
 adding some usefull point for the project is full made by vinayak singh and guidence by q spider institute
+
+
+## Table of Contents
+
+- [Project Overview](#foodfrenzy)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Prerequisites](#prerequisites)
+- [Setup and Installation](#setup-and-installation)
+- [API Documentation](#api-documentation)
+- [API Testing with Postman](#api-testing-with-postman)
+- [Data Flow Diagram](#data-flow-diagram)
+- [Troubleshooting](#troubleshooting)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Repository Index
+
+- `src/main/java/com/example/demo/controllers/`  
+  Contains all Spring Boot controllers (e.g., `HomeController.java`, `UserController.java`, etc.)
+
+- `src/main/java/com/example/demo/entities/`  
+  Contains entity classes (e.g., `User.java`, `Product.java`, etc.)
+
+- `src/main/java/com/example/demo/repositories/`  
+  Contains repository interfaces for database access (e.g., `UserRepository.java`).
+
+- `src/main/java/com/example/demo/services/`  
+  Contains service classes with business logic (e.g., `UserServices.java`).
+
+- `src/main/resources/templates/`  
+  Thymeleaf HTML templates for frontend views.
+
+- `src/main/resources/static/`  
+  Static files like CSS, JavaScript, and images.
+
+- `src/main/resources/application.properties`  
+  Main configuration file for Spring Boot and database.
+
+- `README.md`  
+  Project documentation and instructions.
+
+- `pom.xml`  
+  Maven build and dependency configuration.
+
+---
+
+## Acknowledgments
+
+This project is fully made by **vinayak singh** with guidance from Q Spider Institute.
