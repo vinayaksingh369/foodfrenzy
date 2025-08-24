@@ -327,4 +327,5 @@ Use Swagger annotations to add example requests/responses for each endpoint.
 13. Internationalization (i18n)
 Support multiple languages using Spring’s message resource bundles.
 14. Performance Profiling
+
 Use tools like Spring Boot DevTools, VisualVM, or YourKit to profile and optimize performance.
